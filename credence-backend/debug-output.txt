@@ -1,0 +1,35 @@
+﻿[dotenv@17.3.1] injecting env (4) from .env -- tip: ÔÜÖ´©Å  load multiple .env files with { path: ['.env.local', '.env'] }
+CURRENT TOPICS IN DB: [
+  {
+    "_id": "69a318abd33b426633d42c40",
+    "name": "Operating System",
+    "description": "Core principles of scheduling, memory, and resource management.",
+    "icon": "Cpu",
+    "createdAt": "2026-02-28T16:32:43.226Z",
+    "__v": 0
+  },
+  {
+    "_id": "69a318abd33b426633d42c41",
+    "name": "Backend Systems",
+    "description": "Designing scalable services, state management, and consistency.",
+    "icon": "Server",
+    "createdAt": "2026-02-28T16:32:43.227Z",
+    "__v": 0
+  },
+  {
+    "_id": "69a318abd33b426633d42c42",
+    "name": "Data Structures",
+    "description": "Beyond syntax: Understanding performance assumptions and edge cases.",
+    "icon": "Layers",
+    "createdAt": "2026-02-28T16:32:43.227Z",
+    "__v": 0
+  },
+  {
+    "_id": "69a318abd33b426633d42c43",
+    "name": "System Design Basics",
+    "description": "Building resilient architectures with caching, load balancing, and storage.",
+    "icon": "Layout",
+    "createdAt": "2026-02-28T16:32:43.228Z",
+    "__v": 0
+  }
+]
